@@ -13,6 +13,6 @@ For more infomation, visit my [web](https://diegofe94.github.io)
 - email : diegolas94@hotmail.com
 
 ## Github Status
-[![DiegoFE94's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DiegoFE94&include_orgs=true&show_icons=true&hide_border=true&theme=nightowl&locale=en
+[![DiegoFE94's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DiegoFE94&include_orgs=true&show_icons=true&hide_border=true&theme=github_dark&locale=en
 )](https://github.com/DiegoFE94)
-[![DiegoFE94's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFE94&exclude_repo=DiegoFE94.github.io&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=radical&hide=)](https://github.com/DiegoFE94)
+[![DiegoFE94's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFE94&exclude_repo=DiegoFE94.github.io&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=github_dark&hide=)](https://github.com/DiegoFE94)
