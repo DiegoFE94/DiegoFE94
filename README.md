@@ -5,7 +5,7 @@
 - 🦠 Experienced working with microbiome data, data visualization and data analysis in R.
 - 👀 Interested in Transcriptomics, Proteomics and Metabolomics data analysis.
 
-For more infomation, visit my [web](https://diegofe94.github.io)
+For more infomation, visit my personal [web](https://diegofe94.github.io)
 
 ## Contact
 
