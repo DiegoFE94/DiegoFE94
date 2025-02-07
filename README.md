@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Bioinformatics Scientist.
 - 👨🏻‍🎓 PhD student and working at University of A Coruña.
-- 🦠 Experienced working with microbiome data, data visualization and data analysis in R.
+- 🦠 Experienced working with microbiome data, data visualization and data analysis in R and Python.
 - 👀 Interested in Transcriptomics, Proteomics and Metabolomics data analysis.
 
 For more infomation, visit my personal [web](https://diegofe94.github.io)
