@@ -10,7 +10,7 @@ For more infomation, visit my personal [web](https://diegofe94.github.io)
 ## Contact
 
 - Twitter: [@diego_edreira](https://x.com/diego_edreira)
-- BlueSky: [@diegofe94](@diegofe94.bsky.social)
+- BlueSky: [@diegofe94](https://bsky.app/profile/diegofe94.bsky.social)
 - Email: diegolas94@hotmail.com
 
 ## Github Status
