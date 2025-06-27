@@ -18,9 +18,6 @@
 For more infomation, visit my personal [web](https://diegofe94.github.io)
 
 ## Contact
-
-- X: [@diego_edreira](https://x.com/diego_edreira)
-- Bluesky: [@diegofe94](https://bsky.app/profile/diegofe94.bsky.social)
 - Email: diegolas94@hotmail.com
 
 ## Github Status
