@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Diego/h3>
+<h3 align="center">👋 Hi there, I'm Diego</h3>
 
 <p align="center">
   <a href="https://diegofe94.github.io">Website</a> •
