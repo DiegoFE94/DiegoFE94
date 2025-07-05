@@ -4,7 +4,7 @@
   <a href="https://diegofe94.github.io">Website</a> •
   <a href="https://x.com/diego_edreira">X</a> •
   <a href="https://bsky.app/profile/diegofe94.bsky.social">BlueSky</a> •
-  <a href="https://www.linkedin.com/in/diego-fernandez-edreira/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/diego-fernandez-edreira/">LinkedIn</a>
 
 </p>
 
