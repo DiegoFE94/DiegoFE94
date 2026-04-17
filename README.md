@@ -11,7 +11,7 @@
 # Whoami
 
 - 👨🏻‍💻 Bioinformatics Scientist.
-- 👨🏻‍🎓 PhD student and working at University of A Coruña.
+- 👨🏻‍🎓 PhD in Bioinformatics and researcher at the University of A Coruña.
 - 🦠 Experienced working with microbiome data, data visualization and data analysis in R and Python.
 - 👀 Interested in Transcriptomics, Proteomics and Metabolomics data analysis.
 
