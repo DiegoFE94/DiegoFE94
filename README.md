@@ -18,4 +18,4 @@
 For more infomation, visit my personal [web](https://diegofe94.github.io).
 
 ## Contact
-- Email: diegolas94@hotmail.com
+- Email: diegofe94@proton.me
